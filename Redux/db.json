@@ -1,0 +1,14 @@
+{
+"user": [
+    {
+   
+   "id":"1",
+   "name":"keval",
+   "email": "keval@gmail.com",
+   "password": "1234",
+   "mobile":"2587458574",
+   "gender": "male",
+   "country":"india"
+}
+]
+}
